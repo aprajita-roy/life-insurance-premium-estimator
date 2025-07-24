@@ -42,7 +42,7 @@ This project is an actuarial model built in Excel to estimate the *net premium* 
 
 ---
 
-## Future Enhancements (Optional)
+## Future Enhancements
 
 - Include gross premium calculations with expense loading
 - Extend mortality table with SOA or WHO data
